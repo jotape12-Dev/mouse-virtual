@@ -39,7 +39,7 @@ Este projeto elimina a necessidade de um mouse físico, utilizando a câmera do 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/JoaoPaulo121212/mouse-virtual.git](https://github.com/jotape12-Dev/mouse-virtual.git)
+    git clone [https://github.com/jotape12-Dev/mouse-virtual.git](https://github.com/jotape12-Dev/mouse-virtual.git)
     cd mouse-virtual
     ```
 
